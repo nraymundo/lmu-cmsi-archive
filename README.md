@@ -14,7 +14,7 @@
 [CMSI 281 - Data Structures](https://github.com/nraymundo/cmsi281)
 
 #### Spring 2019
-Note: No longer have access to projects from CMSI 282 - Algorithms
+Note: No longer have access to projects from CMSI 282 - Algorithms<br />
 [CMSI 284 - Computer Systems Organization](https://github.com/nraymundo/cmsi284)
 
 ### Junior Year 
